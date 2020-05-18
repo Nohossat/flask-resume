@@ -12,19 +12,19 @@ person = {
     'description' : 'Suite à une expérience internationale en développement web et dans le domaine des arts, l’impact de l’intelligence artificielle dans nos vies me surprend de jour en jour. \n Aujourd’hui, je souhaite changer de cap et comprendre les secrets que recèlent nos données. J’aimerais mettre à profit ces découvertes au service des entreprises/associations à dimension sociale.',
     'social_media' : [
         {
-            'link': 'https://www.facebook.com/nohossat',
+            'link': 'https://www.facebook.com/nono',
             'icon' : 'fa-facebook-f'
         },
         {
-            'link': 'https://github.com/Nohossat',
+            'link': 'https://github.com/nono',
             'icon' : 'fa-github'
         },
         {
-            'link': 'linkedin.com/in/nohossat-traore/',
+            'link': 'linkedin.com/in/nono',
             'icon' : 'fa-linkedin-in'
         },
         {
-            'link': 'https://twitter.com/NohossatT',
+            'link': 'https://twitter.com/nono',
             'icon' : 'fa-twitter'
         }
     ],
