@@ -1,0 +1,4 @@
+venv
+static/scss
+static/js
+__pycache__
